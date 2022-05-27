@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/01_Scenes/WebGL_01.unity
+    guid: d2df0de8537889c4d9297c6c8fb3d032
   m_configObjects: {}
